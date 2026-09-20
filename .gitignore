@@ -1,0 +1,13 @@
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+.qtcreator/
+*.user
+*.autosave
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
